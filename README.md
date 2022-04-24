@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hasmith-Nahar
-- 👀 I’m interested in learning new programming language, & getting the experience in reall life.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on an intern
+- 👀 I’m interested in learning new programming language, & getting the experience in real life.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me hnahar2311@gmail.com , linkedin.com/in/hasmith-nahar .
 
 <!---
